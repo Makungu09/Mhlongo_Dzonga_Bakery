@@ -9,19 +9,16 @@ PAGES
 - enquiry.html: validated enquiry form with simulated AJAX-style response
 - contact.html: validated contact form and map
 
-IMPORTANT BEFORE PUBLISHING
-- The website uses illustrative remote photos. Replace these with your own bakery images if available.
-- Replace https://example.com in canonical links, robots.txt and sitemap.xml with the real website domain.
-- In script.js, replace info@mhlongodzongabakery.example with the bakery's actual email address. The .example address is a placeholder and cannot receive mail.
-- Contact and enquiry forms are front-end demonstrations. Enquiry details are not stored or sent to a server. Contact form opens the visitor's email app after validation.
-- The map shows the Tzaneen area as a guide. Verify the precise business location before launch.
-- Check menu prices, business hours, delivery conditions and availability with the bakery before publishing.
-- For production use, configure HTTPS hosting, a real form/email endpoint, spam protection, privacy notice and server-side validation.
+REFERENCE 
 
+GitHub (n.d.). GitHub Pages documentation. Available at: https://docs.github.com/en/pages (Accessed: 26 October 2026). 
 
-IMAGE FIX
-Images are stored in the images/ folder and referenced with relative local paths. Keep this folder alongside the HTML, CSS and JavaScript files when copying or uploading the website.
+GitHub (n.d.). Configuring a publishing source for your GitHub Pages site. Available at: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site (Accessed: 26 October 2026). 
 
+Mozilla Developer Network (MDN) (n.d.). HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML (Accessed: 26 October 2026). 
 
-IMAGE PATH FIX
-The homepage product cards are rendered by script.js into #product-grid. Keep script.js and the images/ folder alongside index.html. Product image paths are local, and the hero background uses a local image instead of an external URL. Image aliases are included for the filenames used in the project.
+Mozilla Developer Network (MDN) (n.d.). CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 26 October 2026). 
+
+Mozilla Developer Network (MDN) (n.d.). JavaScript. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript (Accessed: 26 October 2026). 
+
+Google (n.d.). Google Maps. Available at: https://maps.google.com/ (Accessed: 26 October 2026). 
